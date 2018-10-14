@@ -1,3 +1,8 @@
+#### Name: Gayasha Malluwawadu(https://github.com/Gyshie)
+- Place: Colombo, Sri Lanka
+- Bio: I am second year IT student from University of Moratuwa.
+- GitHub: [Gayasha Malluwawadu](https://github.com/Gyshie)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
